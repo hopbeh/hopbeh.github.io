@@ -1,0 +1,16 @@
+- Редактор -
+1. Sublime Text 3 - редактор кода
+
+- Препроцессоры - 
+1. LESS - препроцессор (projekt2017.less)
+2. Koala Compiler - Компилятор (преобразовывает файл projekt2017.less в projekt2017.css)
+
+- Библиотеки/Скрипты - 
+ 1. Slick Slider - Скрипт для слайдера в header
+ 2. Parallax Effect - скрипт для плавной прокрутки сайта
+ 3. Bootstrap - библиотека стилей и сетка для вестки
+
+- Шрифты -
+1. Roboto
+2. Monsterrat
+> Шрифты взяты с Google Fonts

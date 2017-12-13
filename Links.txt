@@ -1,0 +1,13 @@
+- GitHub - 
+1. https://hopbeh.github.io/ - Site
+2. https://github.com/hopbeh/hopbeh.github.io - Files
+
+- Библиотеки / Шрифты / Шрифты - 
+1. Slick - http://kenwheeler.github.io/slick/
+2. Parallax - pixelcog.github.io/parallax.js/
+3. Bootstrap - https://getbootstrap.com/docs/3.3/
+4. LESS - lesscss.org/
+5. Coala Compiler - http://koala-app.com/
+
+- Видео - 
+Все видео взято с Youtube.com
