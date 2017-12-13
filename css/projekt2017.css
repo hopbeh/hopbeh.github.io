@@ -1,0 +1,173 @@
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower|Roboto:100,200,300,400,500');
+body {
+  line-height: 1.3;
+  overflow-x: hidden;
+}
+#header {
+  font-family: 'Roboto', sans-serif;
+  width: 100vw;
+  height: 100vh;
+  text-align: center;
+}
+.main-logo {
+  width: 590px;
+  height: 140px;
+  margin: 0 auto;
+  margin: 5%;
+}
+.main-h {
+  font-family: 'Indie Flower';
+  font-size: 82px;
+  font-weight: 500;
+  margin: -90px 0 0 0;
+  letter-spacing: 8px;
+  color: #fff;
+}
+.main-a {
+  font-size: 24px;
+  font-weight: 300;
+  margin-left: -75px;
+  text-align: center;
+  letter-spacing: 3px;
+  color: #919191;
+}
+// ховер - эфеет при наведении
+.main-a:hover {
+  text-decoration: none;
+  color: #f50;
+}
+.main-ul_a {
+  color: #000;
+}
+.main-ul_a:hover {
+  text-decoration: none;
+  color: #f50;
+}
+.img-margin {
+  padding-right: 25px;
+  padding-left: 25px;
+}
+#text {
+  width: 100wh;
+  height: 100vh;
+  color: #1f1f1f;
+  background-color: #fafafa;
+}
+#text h2 {
+  font-family: 'Indie Flower', sans-serif;
+  font-size: 48px;
+  text-align: center;
+}
+#text .main-p {
+  font-size: 18px;
+}
+#text #main-p {
+  font-size: 20px;
+  text-align: center;
+}
+#text .text-img {
+  width: 100%;
+  margin: 65px;
+  border-radius: 5px;
+}
+.stick {
+  // изминение сойства элемента
+  display: block;
+  width: 400px;
+  height: 4px;
+  margin: -20px auto 0;
+  border-radius: 15px;
+  background-color: #1f1f1f;
+}
+.stick2 {
+  display: block;
+  width: 400px;
+  height: 4px;
+  margin: 0 auto 0;
+  border-radius: 15px;
+  background-color: #1f1f1f;
+}
+.table {
+  width: 100%;
+  height: 100%;
+  margin-left: 50px;
+  text-align: center;
+  letter-spacing: 1px;
+}
+.main-ul {
+  font-family: 'Indie Flower', sans-serif;
+  font-size: 24px;
+  margin: -50px 0 0 125px;
+  padding: 3px;
+  list-style-type: none;
+  letter-spacing: 1px;
+  // все большое 
+  text-transform: uppercase;
+}
+.main-ul li {
+  display: inline;
+  padding-right: 7px;
+}
+.main-ul li:last-child {
+  display: inline;
+  padding-left: 20px;
+}
+.slick-gallery {
+  margin: 5% 0 0 0 ;
+}
+#footer {
+  width: 100vw;
+  height: 100px;
+  background-color: #212121;
+}
+.footer_p {
+  font-family: 'Roboto', sans-serif;
+  font-size: 24px;
+  font-weight: 300;
+  padding-top: 1.3%;
+  text-align: center;
+  letter-spacing: 21px;
+  text-transform: uppercase;
+  color: #f50;
+}
+#wrapper {
+  width: 100vw;
+  height: 550px;
+}
+.firstabc {
+  color: #f50;
+}
+.img-responsive {
+  border-radius: 5px;
+}
+.footerabc {
+  color: #fff;
+}
+#video {
+  width: 100vw;
+  height: 100vh;
+  color: #212121;
+  background-color: #fff;
+}
+#video h3 {
+  color: #212121;
+}
+.video-h3 {
+  font-family: 'Indie Flower', sans-serif;
+  font-size: 48px;
+  margin-top: 100px;
+  text-align: center;
+}
+.video {
+  width: 100%;
+  height: 220px;
+}
+.video-text {
+  font-family: 'Roboto', sans-serif;
+  font-size: 26px;
+  font-weight: 300;
+  text-align: center;
+}
+#secondabc {
+  color: #ff5722;
+}
