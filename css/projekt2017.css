@@ -31,7 +31,6 @@ body {
   letter-spacing: 3px;
   color: #919191;
 }
-// ховер - эфеет при наведении
 .main-a:hover {
   text-decoration: none;
   color: #f50;
